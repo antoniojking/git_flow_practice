@@ -1,2 +1,2 @@
-class CoolStoryBro
-end 
+class Tupac
+end
