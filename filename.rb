@@ -1,2 +1,2 @@
-class YesBro
+class Tupac
 end
